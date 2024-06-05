@@ -1,0 +1,23 @@
+# sent_id = 912
+# text = # feature , under Settings , could you please check if you are signed in with your account already ?
+1	#	#	SYM	NN	Number=Sing	2	compound	_	TokenRange=61063:61064
+2	feature	feature	NOUN	NN	Number=Sing	10	dislocated	_	TokenRange=61065:61072
+3	,	,	PUNCT	,	_	2	punct	_	TokenRange=61073:61074
+4	under	under	ADP	IN	_	5	case	_	TokenRange=61075:61080
+5	Settings	setting	NOUN	NNS	Number=Plur	10	obl	_	TokenRange=61081:61089
+6	,	,	PUNCT	,	_	10	punct	_	TokenRange=61090:61091
+7	could	could	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=61092:61097
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	TokenRange=61098:61101
+9	please	please	INTJ	UH	_	10	discourse	_	TokenRange=61102:61108
+10	check	check	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=61109:61114
+11	if	if	SCONJ	IN	_	14	mark	_	TokenRange=61115:61117
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj:pass	_	TokenRange=61118:61121
+13	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	aux:pass	_	TokenRange=61122:61125
+14	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	ccomp	_	TokenRange=61126:61132
+15	in	in	ADP	RP	_	14	compound:prt	_	TokenRange=61133:61135
+16	with	with	ADP	IN	_	18	case	_	TokenRange=61136:61140
+17	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=61141:61145
+18	account	account	NOUN	NN	Number=Sing	14	obl	_	TokenRange=61146:61153
+19	already	already	ADV	RB	_	14	advmod	_	TokenRange=61154:61161
+20	?	?	PUNCT	.	_	10	punct	_	SpacesAfter=\s\r\n|TokenRange=61162:61163
+
