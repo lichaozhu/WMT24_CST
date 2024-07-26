@@ -1,0 +1,68 @@
+159c159
+< Les récompenses ALPHANUMERICID gagné en ALPHANUMERICID.
+---
+> Les récompenses ALPHANUMERICID gagné en ALPHANUMERICID
+196c196
+< Je vais vous aider NAME-M.
+---
+> Je vais vous aider NAME-M
+332c332
+< ravi de vous rencontrer !.
+---
+> ravi de vous rencontrer !
+455c455
+< Bonjour NAME-M, ravi de vous rencontrer !.
+---
+> Bonjour NAME-M, ravi de vous rencontrer !
+480c480
+< #PRS_ORG#.
+---
+> #PRS_ORG#
+496c496
+< i'm sorry i have to leave you for tonight.
+---
+> i'm sorry i have to leave you for tonight
+947c947
+< Ravi de vous rencontrer !.
+---
+> Ravi de vous rencontrer !
+1109c1109
+< Je suis désolé, je n'ai pas compris votre préoccupation, s'il vous plaît.?
+---
+> Je suis désolé, je n'ai pas compris votre préoccupation, s'il vous plaît.
+1185c1185
+< Please select one of the following options.
+---
+> Please select one of the following options
+1205c1205
+< Thank you.
+---
+> Thank you
+1305c1305
+< Ravi de vous rencontrer !.
+---
+> Ravi de vous rencontrer !
+1354c1354
+< Comme vous êtes allé à "Plus&gt;Paramètres&gt;Comptes" et c'est là que vous avez vu cette option.?
+---
+> Comme vous êtes allé à "Plus&gt;Paramètres&gt;Comptes" et c'est là que vous avez vu cette option.
+1449c1449
+< J'ai l'adresse du mail à votre adresse e-mail enregistrée sur le sperme et répondre à l'email avec les informations.
+---
+> J'ai l'adresse du mail à votre adresse e-mail enregistrée sur le sperme et répondre à l'email avec les informations
+1457c1457
+< email address at any time.
+---
+> email address at any time
+1514c1514
+< Y a-t-il autre chose que je puisse faire pour vous aider ?.
+---
+> Y a-t-il autre chose que je puisse faire pour vous aider ?
+1577c1577
+< Oui si possible.
+---
+> Oui si possible
+1770c1770
+< hello.
+---
+> hello

@@ -1,0 +1,13 @@
+4c4
+< Bonjour NAME-M.
+---
+> Bonjour NOM-M.
+328c328
+< My name is NAME-M, can I ask your first name please to start?
+---
+> I'm NAME-M, can I ask your first name please to start?
+2091c2091
+< Passe une très bonne journée!
+---
+> Passe une très bonne journée!
+\ No newline at end of file

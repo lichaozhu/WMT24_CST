@@ -1,0 +1,770 @@
+14c14
+< Je peux comprendre que vous n'êtes pas en mesure de vous abonner à PRS-ORG mais il ne fonctionne pas pendant.
+---
+> Je peux comprendre que vous n'êtes pas en mesure de vous abonner à PRS-ORG mais il ne fonctionne pas pendant
+21c21
+< Comme je l'ai vérifié, vous n'êtes pas abonné à PRS-ORG et aucun montant n'a été.
+---
+> Comme je l'ai vérifié, vous n'êtes pas abonné à PRS-ORG et aucun montant n'a été
+39c39
+< Il est regrettable que vous n'ayez pas obtenu ce que vous attendiez des packs que vous avez ouverts,.
+---
+> Il est regrettable que vous n'ayez pas obtenu ce que vous attendiez des packs que vous avez ouverts,
+48c48
+< Aussi désireux que nous soyons de vous faciliter la tâche, nous ne sommes pas en mesure de répondre à vos demandes.
+---
+> Aussi désireux que nous soyons de vous faciliter la tâche, nous ne sommes pas en mesure de répondre à vos demandes
+52c52
+< Si vous avez besoin de plus d'aide, n'hésitez pas et n'hésitez pas à nous contacter à.
+---
+> Si vous avez besoin de plus d'aide, n'hésitez pas et n'hésitez pas à nous contacter à
+75c75
+< Sorry to contact you again but there are two volumes missing from the refund email, I would like to be refunded the full amount of.
+---
+> Sorry to contact you again but there are two volumes missing from the refund email, I would like to be refunded the full amount of
+91c91
+< Tout d'abord, allumez votre PRS-ORG avec le commutateur d'allumage et d'é.
+---
+> Tout d'abord, allumez votre PRS-ORG avec le commutateur d'allumage et d'é
+93c93
+< Appuyez sur le menu déroulant pour sélectionner votre langue préférée dans le menu et appuyez sur.
+---
+> Appuyez sur le menu déroulant pour sélectionner votre langue préférée dans le menu et appuyez sur 
+95c95
+< Vous serez redirigé vers vos paramètres Wi-Fi afin de pouvoir connecter votre PRS-ORG à un réseau.
+---
+> Vous serez redirigé vers vos paramètres Wi-Fi afin de pouvoir connecter votre PRS-ORG à un réseau
+120c120
+< Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres.
+---
+> Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres
+127c127
+< Je vais immédiatement créer un cas expliquant votre souhait d'accepter des paiements à distance et notre équipe pertinente va ac.
+---
+> Je vais immédiatement créer un cas expliquant votre souhait d'accepter des paiements à distance et notre équipe pertinente va ac
+147c147
+< Si vous avez d'autres questions ou préoccupations, n'hésitez pas à nous contacter par chat, email ou téléphone.
+---
+> Si vous avez d'autres questions ou préoccupations, n'hésitez pas à nous contacter par chat, email ou téléphone
+149c149
+< De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma.
+---
+> De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma
+164,166c164,166
+< Les récompenses PRS-ORG doivent être rachetées en se connectant à PRS-ORG avant le 14.
+< PRS-ORG Les récompenses de la pré-saison ne sont pas transmises sur la même famille de plateformes.
+< Par exemple, si vous gagnez les récompenses dans PRS-ORG sur PRS-ORG, alors vos ré.
+---
+> Les récompenses PRS-ORG doivent être rachetées en se connectant à PRS-ORG avant le 14
+> PRS-ORG Les récompenses de la pré-saison ne sont pas transmises sur la même famille de plateformes
+> Par exemple, si vous gagnez les récompenses dans PRS-ORG sur PRS-ORG, alors vos ré
+178c178
+< S'il vous plaît contactez-nous pour toute question sur le jeu et visitez l'URL pour des conseils et astu.
+---
+> S'il vous plaît contactez-nous pour toute question sur le jeu et visitez l'URL pour des conseils et astu
+197c197
+< Pouvez-vous s'il vous plaît confirmer quelle erreur vous obtenez lorsque vous effectuez des paiements par carte Visa ou?
+---
+> Pouvez-vous s'il vous plaît confirmer quelle erreur vous obtenez lorsque vous effectuez des paiements par carte Visa ou
+217c217
+< En plus d'exploiter votre entreprise dans votre pays d'origine, nous voulons vous faciliter la croissance de votre entreprise lorsque.
+---
+> En plus d'exploiter votre entreprise dans votre pays d'origine, nous voulons vous faciliter la croissance de votre entreprise lorsque
+228c228
+< S'il vous plaît n'hésitez pas à nous appeler au numéro de téléphone et notre équipe sera heureuse de vous aider.
+---
+> S'il vous plaît n'hésitez pas à nous appeler au numéro de téléphone et notre équipe sera heureuse de vous aider
+240c240
+< Hello, Monday's transactions are not being paid into the correct bank account, even though we applied for them on Thursday, May 4th?
+---
+> Hello, Monday's transactions are not being paid into the correct bank account, even though we applied for them on Thursday, May 4th
+245c245
+< Nous pouvons voir que votre compte a été rejeté par votre banque pour une vérification, et aucun détail n'est désor.
+---
+> Nous pouvons voir que votre compte a été rejeté par votre banque pour une vérification, et aucun détail n'est désor
+256c256
+< Oui, pourriez-vous s'il vous plaît confirmer votre adresse e-mail à partir de laquelle vous envoyez l'e?
+---
+> Oui, pourriez-vous s'il vous plaît confirmer votre adresse e-mail à partir de laquelle vous envoyez l'e
+282c282
+< Je vais aussi ajouter une note à l'équipe dédiée pour que cela puisse être réglé pour vous le plus tôt possible.
+---
+> Je vais aussi ajouter une note à l'équipe dédiée pour que cela puisse être réglé pour vous le plus tôt possible
+287c287
+< Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support.
+---
+> Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support
+289c289
+< NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time.
+---
+> NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time
+293,294c293,294
+< Note: You can only register one phone number on your account, but the PRS-ORG application (for the Air terminal) can.
+< NAME-M_TEXT:As changing a phone number is beyond my skills as a virtual assistant, I'm going to.
+---
+> Note: You can only register one phone number on your account, but the PRS-ORG application (for the Air terminal) can
+> NAME-M_TEXT:As changing a phone number is beyond my skills as a virtual assistant, I'm going to
+312c312
+< Comme vous l'avez demandé, je voudrais vous informer que votre numéro de téléphone portable a été modifié avec succès en numéro de téléphone.
+---
+> Comme vous l'avez demandé, je voudrais vous informer que votre numéro de téléphone portable a été modifié avec succès en numéro de téléphone
+317c317
+< De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma.
+---
+> De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma
+325c325
+< Bien sûr, si vous avez d'autres questions, n'hésitez pas à visiter notre Centre d'assistance URL et.
+---
+> Bien sûr, si vous avez d'autres questions, n'hésitez pas à visiter notre Centre d'assistance URL et
+339,341c339,341
+< So I would like to put a new email address except that at the time of the change of address, it asks me to retrie.
+< Je verrai sûrement ce que nous pouvons faire de mieux pour mettre à jour un nouvel e-mail sur votre compte PRS-OR.
+< Puis-je connaître l'email qui est lié à votre compte PRS-ORG auquel vous n'avez pas accès?
+---
+> So I would like to put a new email address except that at the time of the change of address, it asks me to retrie
+> Je verrai sûrement ce que nous pouvons faire de mieux pour mettre à jour un nouvel e-mail sur votre compte PRS-OR
+> Puis-je connaître l'email qui est lié à votre compte PRS-ORG auquel vous n'avez pas accès
+347c347
+< J'ai mis à jour l'email demandé sur le compte et je suis en train d'envoyer un lien de réiniti.
+---
+> J'ai mis à jour l'email demandé sur le compte et je suis en train d'envoyer un lien de réiniti
+365c365
+< So a few days ago I tried to log in to PRS-ORG on PRS-ORG unfortunately they ask me to.
+---
+> So a few days ago I tried to log in to PRS-ORG on PRS-ORG unfortunately they ask me to
+375c375
+< I just hope the email address associated with it isn't my ex-girlfriend's because I have no way to contact her.
+---
+> I just hope the email address associated with it isn't my ex-girlfriend's because I have no way to contact her
+377c377
+< Je viens de vérifier et votre identifiant PSN est lié à un autre compte PRS-ORG qui a déjà été sup.
+---
+> Je viens de vérifier et votre identifiant PSN est lié à un autre compte PRS-ORG qui a déjà été sup
+379c379
+< Je vous suggère de prendre un peu de temps et de vous rappeler l'email que vous pensez avoir utilisé et vous pouvez simplement ré.
+---
+> Je vous suggère de prendre un peu de temps et de vous rappeler l'email que vous pensez avoir utilisé et vous pouvez simplement ré
+384c384
+< S'il vous plaît essayer de restaurer en réinitialisant le mot de passe sinon nous devons le déconnecter et cela.
+---
+> S'il vous plaît essayer de restaurer en réinitialisant le mot de passe sinon nous devons le déconnecter et cela
+442c442
+< Dans ce cas, je vais faire passer ce problème à notre équipe et ils vous contacteront avec une mise à jour de votre adresse e.
+---
+> Dans ce cas, je vais faire passer ce problème à notre équipe et ils vous contacteront avec une mise à jour de votre adresse e
+456c456
+< Ne vous inquiétez pas, je vais certainement vérifier cela pour vous et vous aider à changer l'e-mail inacces.
+---
+> Ne vous inquiétez pas, je vais certainement vérifier cela pour vous et vous aider à changer l'e-mail inacces
+463c463
+< S'il vous plaît essayez de vous connecter au compte PRS-ORG en utilisant les identifiants PSN de.
+---
+> S'il vous plaît essayez de vous connecter au compte PRS-ORG en utilisant les identifiants PSN de
+466c466
+< Sur la fenêtre qui apparaît, choisissez de vous connecter avec votre compte PRS-ORG, ou avec votre compte.
+---
+> Sur la fenêtre qui apparaît, choisissez de vous connecter avec votre compte PRS-ORG, ou avec votre compte
+477c477
+< Je vous disais que nous pouvons réinitialiser votre appareil pour résoudre le problème, mais vous aurez besoin de votre mot.
+---
+> Je vous disais que nous pouvons réinitialiser votre appareil pour résoudre le problème, mais vous aurez besoin de votre mot
+487c487
+< On peut essayer de le réinitialiser pour résoudre le problème, et une fois que nous l'avons configuré, le.
+---
+> On peut essayer de le réinitialiser pour résoudre le problème, et une fois que nous l'avons configuré, le
+489c489
+< Si vous n'avez pas le mot de passe du wifi, nous pouvons le configurer avec votre ordinateur, avec l'application PR.
+---
+> Si vous n'avez pas le mot de passe du wifi, nous pouvons le configurer avec votre ordinateur, avec l'application PR
+533c533
+< Soyez assurés, je transmettrai votre demande à notre équipe dédiée, et ils vous répondront avec une mise à.
+---
+> Soyez assurés, je transmettrai votre demande à notre équipe dédiée, et ils vous répondront avec une mise à
+567c567
+< Comme je l'ai vérifié, vous nous avez contacté depuis l'application PRS-ORG, et la première étape.
+---
+> Comme je l'ai vérifié, vous nous avez contacté depuis l'application PRS-ORG, et la première étape
+571c571
+< Si vous rencontrez le même problème après l'étape de dépannage, veuillez nous contacter à nouveau et nous.
+---
+> Si vous rencontrez le même problème après l'étape de dépannage, veuillez nous contacter à nouveau et nous
+573c573
+< Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres.
+---
+> Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres
+580c580
+< I bought the PRS-ORG ultimate game on PRS-ORG and I couldn't download it (beta version).
+---
+> I bought the PRS-ORG ultimate game on PRS-ORG and I couldn't download it (beta version)
+595c595
+< No ultimate edition a only one version which includes both PRS-ORG and PRS-ORG version. Il est disponible.
+---
+> No ultimate edition a only one version which includes both PRS-ORG and PRS-ORG version. Il est disponible
+608c608
+< I am sorry NAME-M but the early access has already been ended on 10 October. Je suis désolé NAME-M mais.
+---
+> I am sorry NAME-M but the early access has already been ended on 10 October. Je suis désolé NAME-M mais
+628c628
+< Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail enregistrée afin de pouvoir accéder à votre compte?
+---
+> Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail enregistrée afin de pouvoir accéder à votre compte
+642c642
+< Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail enregistrée afin de pouvoir accéder à votre compte?
+---
+> Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail enregistrée afin de pouvoir accéder à votre compte
+692c692
+< Je suis désolé de dire que je peux voir tous les détails que vous nous avez transmis à partir du profil de l'employé.
+---
+> Je suis désolé de dire que je peux voir tous les détails que vous nous avez transmis à partir du profil de l'employé
+699c699
+< Dans ce cas, je vais vous envoyer les étapes par e-mail afin que vous puissiez effectuer ces étapes de.
+---
+> Dans ce cas, je vais vous envoyer les étapes par e-mail afin que vous puissiez effectuer ces étapes de
+705,706c705,706
+< Dans ce cas, je vous demande de réinitialiser votre mot de passe une fois, et je serai heureux de vous aider avec cela.
+< Veuillez vous connecter au tableau de bord en recherchant l'URL sur PRS-ORG et en vous connectant.
+---
+> Dans ce cas, je vous demande de réinitialiser votre mot de passe une fois, et je serai heureux de vous aider avec cela
+> Veuillez vous connecter au tableau de bord en recherchant l'URL sur PRS-ORG et en vous connectant
+709c709
+< Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre.
+---
+> Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre
+728c728
+< It will be easier for me to help you if your questions are short and specific, for example  How do I change my?
+---
+>  It will be easier for me to help you if your questions are short and specific, for example  How do I change my
+732c732
+< Since I'm unable to process this type of request, I'll put you in touch with an agent who can do the necessary.
+---
+> Since I'm unable to process this type of request, I'll put you in touch with an agent who can do the necessary
+736c736
+< Si je vous ai bien compris, vous avez deux lecteurs de cartes, dont l'un est bloqué et l'autre fait face.
+---
+> Si je vous ai bien compris, vous avez deux lecteurs de cartes, dont l'un est bloqué et l'autre fait face
+742c742
+< Pour commencer, je peux vous demander si l'affichage change sur le lecteur de carte bloqué après avoir appuyé?
+---
+> Pour commencer, je peux vous demander si l'affichage change sur le lecteur de carte bloqué après avoir appuyé
+747c747
+< Cela arrive souvent lorsque le périphérique a été abandonné ou lorsque le périphérique est défectueux pour diverses raisons, telles.
+---
+> Cela arrive souvent lorsque le périphérique a été abandonné ou lorsque le périphérique est défectueux pour diverses raisons, telles
+752c752
+< Cependant, la bonne nouvelle est que si l'appareil est toujours sous garantie, nous remplacerons votre appareil bloqué.
+---
+> Cependant, la bonne nouvelle est que si l'appareil est toujours sous garantie, nous remplacerons votre appareil bloqué
+755c755
+< Cependant, la bonne nouvelle est que si l'appareil est toujours sous garantie, nous remplacerons votre appareil bloqué.
+---
+> Cependant, la bonne nouvelle est que si l'appareil est toujours sous garantie, nous remplacerons votre appareil bloqué
+759c759
+< Hi, I just bought a PRS-ORG Libra 2 e-reader and I anticipated by putting all my books.
+---
+> Hi, I just bought a PRS-ORG Libra 2 e-reader and I anticipated by putting all my books
+767c767
+< Pour vérifier, je peux avoir votre adresse email associée à PRS-ORG et aussi le titre des livres les plus récents?
+---
+> Pour vérifier, je peux avoir votre adresse email associée à PRS-ORG et aussi le titre des livres les plus récents
+771c771
+< Si je peux demander, les livres que vous essayez de synchroniser sont-ils achetés sur PRS-OR?
+---
+> Si je peux demander, les livres que vous essayez de synchroniser sont-ils achetés sur PRS-OR
+776c776
+< You never responded to my last message, and you think you've been to the end of the audience and you've been useful?
+---
+> You never responded to my last message, and you think you've been to the end of the audience and you've been useful
+788c788
+< J'ai vérifié les détails et je peux voir que votre profil a atteint la limite de pré-vérification de 5000.
+---
+> J'ai vérifié les détails et je peux voir que votre profil a atteint la limite de pré-vérification de 5000
+793c793
+< Pour vérifier votre profil, veuillez répondre à l'e-mail avec les documents demandés qui vous a été envoyé aujourd'.
+---
+> Pour vérifier votre profil, veuillez répondre à l'e-mail avec les documents demandés qui vous a été envoyé aujourd'
+801c801
+< Je suggère, vérifiez votre courriel ou votre dossier SPAM, vous avez peut-être reçu des courriels de notre.
+---
+> Je suggère, vérifiez votre courriel ou votre dossier SPAM, vous avez peut-être reçu des courriels de notre
+807c807
+< Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass.
+---
+> Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass
+829,830c829,830
+< Les DRM empêchent la copie ou la redistribution non autorisée des livres électroniques pour protéger les droits des auteurs.
+< Si vous avez téléchargé un livre protégé par PRS-ORG, vous obtiendrez une licence sous la forme.
+---
+> Les DRM empêchent la copie ou la redistribution non autorisée des livres électroniques pour protéger les droits des auteurs
+> Si vous avez téléchargé un livre protégé par PRS-ORG, vous obtiendrez une licence sous la forme
+844c844
+< Cliquez sur Bibliothèque dans le coin supérieur gauche de l'écran pour revenir à l'écran d.
+---
+> Cliquez sur Bibliothèque dans le coin supérieur gauche de l'écran pour revenir à l'écran d
+876c876
+< Quand vous vous connectez à votre profil PRS-ORG, une boîte en haut de votre écran vous demandera d.
+---
+> Quand vous vous connectez à votre profil PRS-ORG, une boîte en haut de votre écran vous demandera d
+882c882
+< Je suis vraiment désolé d'entendre ça, pourriez-vous s'il vous plaît vérifier une fois dans l'application?
+---
+> Je suis vraiment désolé d'entendre ça, pourriez-vous s'il vous plaît vérifier une fois dans l'application
+893c893
+< S'il vous plaît ne vous inquiétez pas car j'ai compris votre préoccupation et je vous aiderai dans ce cas.
+---
+> S'il vous plaît ne vous inquiétez pas car j'ai compris votre préoccupation et je vous aiderai dans ce cas
+906,907c906,907
+< Pour l'abonnement PRS-ORG sur Console, vous devrez acheter l'abonnement depuis la console elle.
+< Votre abonnement PC prendra fin dans les prochains jours et après avoir joué aux jeux sur PC, vous pourrez acheter.
+---
+> Pour l'abonnement PRS-ORG sur Console, vous devrez acheter l'abonnement depuis la console elle
+> Votre abonnement PC prendra fin dans les prochains jours et après avoir joué aux jeux sur PC, vous pourrez acheter
+931c931
+< Si le montant n'est pas reflété dans votre compte bancaire, soyez assuré, il sera transféré à votre compte banca.
+---
+> Si le montant n'est pas reflété dans votre compte bancaire, soyez assuré, il sera transféré à votre compte banca
+939,940c939,940
+< Pour toute question, n'hésitez pas à visiter notre centre d'assistance ou à nous contacter par chat, email.
+< Nous apprécions tous les commentaires de nos commerçants et nous travaillons constamment à améliorer nos services en fonction.
+---
+> Pour toute question, n'hésitez pas à visiter notre centre d'assistance ou à nous contacter par chat, email
+> Nous apprécions tous les commentaires de nos commerçants et nous travaillons constamment à améliorer nos services en fonction
+957c957
+< Let's say a game won with maybe 8 kills from fighting current predators doesn't even give you elimination points, which.
+---
+> Let's say a game won with maybe 8 kills from fighting current predators doesn't even give you elimination points, which
+961c961
+< Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail liée à votre compte PRS-ORG?
+---
+> Pourriez-vous s'il vous plaît m'aider avec votre adresse e-mail liée à votre compte PRS-ORG
+969,970c969,970
+< Je souhaite pouvoir vous aider à résoudre ce problème ici, mais je m'excuse de vous dire que nous ne pouvons pas.
+< Je vous demande de mentionner cette question sur le forum PRS-ORG afin que les gestionnaires de la communauté puissent.
+---
+> Je souhaite pouvoir vous aider à résoudre ce problème ici, mais je m'excuse de vous dire que nous ne pouvons pas
+> Je vous demande de mentionner cette question sur le forum PRS-ORG afin que les gestionnaires de la communauté puissent
+1000c1000
+< Son écran tactile et sa conception autonome vous permettent d'accepter les paiements par carte où que vous soyez.
+---
+> Son écran tactile et sa conception autonome vous permettent d'accepter les paiements par carte où que vous soyez
+1008c1008
+< Ne vous inquiétez pas, si vous me laissez savoir la raison de la connexion Bluetooth, je peux ouvrir une case pour.
+---
+> Ne vous inquiétez pas, si vous me laissez savoir la raison de la connexion Bluetooth, je peux ouvrir une case pour
+1011c1011
+< Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass.
+---
+> Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass
+1032c1032
+< J'ai vérifié les détails pour vous, et je peux voir que le cas a déjà été transféré à l'équipe.
+---
+> J'ai vérifié les détails pour vous, et je peux voir que le cas a déjà été transféré à l'équipe
+1038c1038
+< Je comprends votre inquiétude et j'ai déjà ajouté tous les commentaires nécessaires à l'équipe dédiée afin que.
+---
+> Je comprends votre inquiétude et j'ai déjà ajouté tous les commentaires nécessaires à l'équipe dédiée afin que
+1042c1042
+< Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass.
+---
+> Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau et visitez notre centre d'ass
+1066c1066
+< Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -.
+---
+> Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -
+1075c1075
+< NAME-M_TEXT:You can find the botid_instructions_debug for your device in our Help Centre.
+---
+> NAME-M_TEXT:You can find the botid_instructions_debug for your device in our Help Centre
+1096c1096
+< Le numéro n'est pas émis, vous pouvez vous connecter à n'importe quel téléphone si le PRS-ORG ou.
+---
+> Le numéro n'est pas émis, vous pouvez vous connecter à n'importe quel téléphone si le PRS-ORG ou
+1100c1100
+< Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -.
+---
+> Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -
+1104c1104
+< Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat ou par courriel.
+---
+> Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat ou par courriel
+1109c1109
+< Je suis désolé, je n'ai pas compris votre préoccupation. Pourriez-vous s'il vous plaît élaborer?
+---
+> Je suis désolé, je n'ai pas compris votre préoccupation. Pourriez-vous s'il vous plaît élaborer
+1116c1116
+< Dans le futur, si vous voulez recevoir vos paiements dans votre compte bancaire, je vous demanderais de changer votre fréquence de.
+---
+> Dans le futur, si vous voulez recevoir vos paiements dans votre compte bancaire, je vous demanderais de changer votre fréquence de
+1121c1121
+< Oui, vous ne pouvez transférer de fonds de votre carte vers votre compte bancaire qu'une fois que vous avez activé votre.
+---
+> Oui, vous ne pouvez transférer de fonds de votre carte vers votre compte bancaire qu'une fois que vous avez activé votre
+1136c1136
+< J'ai vérifié les détails pour vous et j'ai pu voir que vous nous avez envoyé les documents et qu'ils ont.
+---
+> J'ai vérifié les détails pour vous et j'ai pu voir que vous nous avez envoyé les documents et qu'ils ont
+1141c1141
+< Bien que je ne puisse pas vous donner un calendrier précis, soyez assurés que cela est en cours de travail le plus rapidement.
+---
+> Bien que je ne puisse pas vous donner un calendrier précis, soyez assurés que cela est en cours de travail le plus rapidement
+1149,1150c1149,1150
+< Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support.
+< De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma.
+---
+> Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support
+> De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma
+1165c1165
+< L'équipe concernée vous enverra un email de confirmation à votre adresse email enregistrée une fois le profil supprimé.
+---
+> L'équipe concernée vous enverra un email de confirmation à votre adresse email enregistrée une fois le profil supprimé
+1191c1191
+< Then, I have two drivers on the vehicle, how do I create multiple profiles, so each driver's transactions will be separ?
+---
+> Then, I have two drivers on the vehicle, how do I create multiple profiles, so each driver's transactions will be separ
+1200c1200
+< Les profils des employés vous permettront de créer un profil séparé pour chaque employé afin que vous puissiez comparer.
+---
+> Les profils des employés vous permettront de créer un profil séparé pour chaque employé afin que vous puissiez comparer
+1208c1208
+< Vos employés devront créer leur nouveau profil et se connecter en utilisant leurs identifiants et ils pourront commencer à accepter des.
+---
+> Vos employés devront créer leur nouveau profil et se connecter en utilisant leurs identifiants et ils pourront commencer à accepter des
+1238,1239c1238,1239
+< Puisque vous ne recevez pas vos paiements, dans cette situation, je devrai créer et soulever un cas pour vous et l.
+< S'il vous plaît, soyez assurés, que puisque ce sera une affaire de haute priorité, ils devraient s'en.
+---
+> Puisque vous ne recevez pas vos paiements, dans cette situation, je devrai créer et soulever un cas pour vous et l
+> S'il vous plaît, soyez assurés, que puisque ce sera une affaire de haute priorité, ils devraient s'en
+1245c1245
+< Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -.
+---
+> Nous sommes à votre disposition du lundi au vendredi (09h00 - 20h00) et le week-end (09h00 -
+1254c1254
+< L'équipe dédiée va s'en occuper et s'assurer que tout soit réglé, soyez assurés.
+---
+> L'équipe dédiée va s'en occuper et s'assurer que tout soit réglé, soyez assurés
+1256c1256
+< Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat ou par courriel.
+---
+> Bien sûr, si vous avez d'autres questions, n'hésitez pas à nous contacter via le chat ou par courriel
+1267c1267
+< Since I'm unable to process this type of request, I'll put you in touch with an agent who can do the necessary.
+---
+> Since I'm unable to process this type of request, I'll put you in touch with an agent who can do the necessary
+1276c1276
+< Pouvez-vous appuyer sur "X" sur le lecteur de cartes et me dire si le message d'erreur change?
+---
+> Pouvez-vous appuyer sur "X" sur le lecteur de cartes et me dire si le message d'erreur change
+1285c1285
+< Cela se produit souvent lorsqu'il est soit abandonné, manipulé à la dure, surchauffé pendant la charge, ou expos.
+---
+> Cela se produit souvent lorsqu'il est soit abandonné, manipulé à la dure, surchauffé pendant la charge, ou expos
+1292c1292
+< S'il vous plaît, assurez-vous de l'utiliser dans quelques jours pour vous assurer qu'il ne reste pas inac.
+---
+> S'il vous plaît, assurez-vous de l'utiliser dans quelques jours pour vous assurer qu'il ne reste pas inac
+1296c1296
+< Je vais envoyer l'étiquette de retour pour l'appareil bloqué à votre adresse e-mail enregistrée.
+---
+> Je vais envoyer l'étiquette de retour pour l'appareil bloqué à votre adresse e-mail enregistrée
+1314c1314
+< Ne vous inquiétez pas, je vais essayer de vous aider à accéder à votre PRS-ORG que vous avez pay.
+---
+> Ne vous inquiétez pas, je vais essayer de vous aider à accéder à votre PRS-ORG que vous avez pay
+1321c1321
+< L'email a pour sujet "Vérifier la propriété de votre compte PRS-ORG" et vous l'avez peut.
+---
+> L'email a pour sujet "Vérifier la propriété de votre compte PRS-ORG" et vous l'avez peut
+1346c1346
+< Si vous utilisez PRS-ORG dans votre eReader et que vous avez sélectionné la mauvaise bibliothè.
+---
+> Si vous utilisez PRS-ORG dans votre eReader et que vous avez sélectionné la mauvaise bibliothè
+1351c1351
+< Quelles étapes avez-vous suivies pour vous déconnecter de votre compte PRS-ORG dans l'eReader?
+---
+> Quelles étapes avez-vous suivies pour vous déconnecter de votre compte PRS-ORG dans l'eReader
+1354c1354
+< Comme si tu étais allé sur "Plus de paramètres et de comptes" et que c'est là que tu as vu cette option?
+---
+> Comme si tu étais allé sur "Plus de paramètres et de comptes" et que c'est là que tu as vu cette option
+1376,1377c1376,1377
+< C'est pourquoi nos équipes ont également introduit des packs de prévisualisation pour que nos équipes sachent ce que vous.
+< Mais je vais noter vos commentaires sur ce sujet et je vous assure que tout commentaire de nos joueurs est précie.
+---
+> C'est pourquoi nos équipes ont également introduit des packs de prévisualisation pour que nos équipes sachent ce que vous
+> Mais je vais noter vos commentaires sur ce sujet et je vous assure que tout commentaire de nos joueurs est précie
+1389c1389
+< It will be easier for me to help you if your questions are short and specific, for example  How do I change my?
+---
+>  It will be easier for me to help you if your questions are short and specific, for example  How do I change my
+1391c1391
+< NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time.
+---
+> NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time
+1394,1395c1394,1395
+< Note: You can only have one email address per account, which will be used as both your login ID and the address where you will receive.
+< NAME-M_TEXT:As this is beyond my skills as a virtual assistant, I'm going to put you in.
+---
+> Note: You can only have one email address per account, which will be used as both your login ID and the address where you will receive
+> NAME-M_TEXT:As this is beyond my skills as a virtual assistant, I'm going to put you in
+1408c1408
+< S'il vous plaît envoyez-nous un e-mail à partir de votre adresse e-mail enregistrée avec votre ancienne et.
+---
+> S'il vous plaît envoyez-nous un e-mail à partir de votre adresse e-mail enregistrée avec votre ancienne et
+1415c1415
+< Je comprends que cela puisse être un processus long, mais nous devons suivre ces étapes afin de nous assurer que votre profil est aussi sécur.
+---
+> Je comprends que cela puisse être un processus long, mais nous devons suivre ces étapes afin de nous assurer que votre profil est aussi sécur
+1422c1422
+< Si vous avez d'autres questions, n'hésitez pas à visiter notre centre d'assistance ou à nous contacter.
+---
+> Si vous avez d'autres questions, n'hésitez pas à visiter notre centre d'assistance ou à nous contacter
+1430c1430
+< J'ai vérifié votre compte, et j'ai pu voir que malheureusement il n'est pas complètement vérifié,.
+---
+> J'ai vérifié votre compte, et j'ai pu voir que malheureusement il n'est pas complètement vérifié,
+1449c1449
+< Je vous ai transmis l'email à votre adresse email enregistrée, veuillez vous référer à l'email et répondre à.
+---
+> Je vous ai transmis l'email à votre adresse email enregistrée, veuillez vous référer à l'email et répondre à
+1452c1452
+< Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres.
+---
+> Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres
+1462c1462
+< NAME-M_TEXT:As this is beyond my skills as a virtual assistant, I'm going to put you in.
+---
+> NAME-M_TEXT:As this is beyond my skills as a virtual assistant, I'm going to put you in
+1486c1486
+< However, when I enter my username and password, I am asked to log in to PRS-ORG to merge the accounts.
+---
+> However, when I enter my username and password, I am asked to log in to PRS-ORG to merge the accounts
+1514c1514
+< Si vous avez d'autres questions ou préoccupations, vous pouvez toujours répondre à cet email et nous serons en mesure de vous aider.
+---
+> Si vous avez d'autres questions ou préoccupations, vous pouvez toujours répondre à cet email et nous serons en mesure de vous aider
+1536c1536
+< J'ai vérifié, et si vous souhaitez prendre des paiements de factures, vous n'avez pas besoin de l'.
+---
+> J'ai vérifié, et si vous souhaitez prendre des paiements de factures, vous n'avez pas besoin de l'
+1544c1544
+< Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres.
+---
+> Puisque je n'ai pas entendu parler de vous depuis un moment, je vais devoir fermer ce chat, si vous avez d'autres
+1564c1564
+< Cependant, je suis désolé, puisque vous nous contactez via un profil d'employé, je ne peux pas vérifier les.
+---
+> Cependant, je suis désolé, puisque vous nous contactez via un profil d'employé, je ne peux pas vérifier les
+1569,1570c1569,1570
+< Cependant, pourriez-vous s'il vous plaît confirmer l'adresse email du profil de l'employé par lequel vous nous?
+< En outre, pourriez-vous confirmer l'ID du commerçant du titulaire du compte principal et l'ID de la dernière?
+---
+> Cependant, pourriez-vous s'il vous plaît confirmer l'adresse email du profil de l'employé par lequel vous nous
+> En outre, pourriez-vous confirmer l'ID du commerçant du titulaire du compte principal et l'ID de la dernière
+1575c1575
+< Cependant, veuillez noter que vous nous contactez via un profil d'employé créé avec l'adresse e-mail: E.
+---
+> Cependant, veuillez noter que vous nous contactez via un profil d'employé créé avec l'adresse e-mail: E
+1579c1579
+< Toutefois, si vous souhaitez obtenir de l'aide via le profil d'employé par lequel vous nous avez contactés, veuille.
+---
+> Toutefois, si vous souhaitez obtenir de l'aide via le profil d'employé par lequel vous nous avez contactés, veuille
+1617c1617
+< Je comprends que cela puisse être frustrant, mais nous n'avons pas accès aux serveurs de ventes et de transactions de PR.
+---
+> Je comprends que cela puisse être frustrant, mais nous n'avons pas accès aux serveurs de ventes et de transactions de PR
+1634c1634
+< Since then, I've chosen the option to "send directly to my bank account" instead of "send to a professional PR.
+---
+> Since then, I've chosen the option to "send directly to my bank account" instead of "send to a professional PR
+1647c1647
+< Si vous souhaitez recevoir les fonds dans votre compte bancaire, veuillez suivre les étapes ci-dessous pour trans.
+---
+> Si vous souhaitez recevoir les fonds dans votre compte bancaire, veuillez suivre les étapes ci-dessous pour trans
+1655c1655
+< Malheureusement, nous ne pouvons pas faire de transfert en votre nom. Cependant, vous pouvez transférer de l'argent de.
+---
+> Malheureusement, nous ne pouvons pas faire de transfert en votre nom. Cependant, vous pouvez transférer de l'argent de
+1658c1658
+< Bien sûr, si vous avez d'autres questions, n'hésitez pas à visiter notre Centre d'assistance et à.
+---
+> Bien sûr, si vous avez d'autres questions, n'hésitez pas à visiter notre Centre d'assistance et à
+1671,1672c1671,1672
+< If delivery is not made within the specified time, our services may send a new shipment if a total of 3 weeks (from the.
+< If delivery is not made within the specified time, our services may send a new shipment if a total of 3 weeks (from the.
+---
+> If delivery is not made within the specified time, our services may send a new shipment if a total of 3 weeks (from the
+> If delivery is not made within the specified time, our services may send a new shipment if a total of 3 weeks (from the
+1689,1690c1689,1690
+< Dans ce cas, je vous renverrai la carte PRS-ORG et je m'assurerai que vous l'ob.
+< S'il vous plaît, fournissez-moi l'adresse de livraison complète à laquelle la carte doit être livr.
+---
+> Dans ce cas, je vous renverrai la carte PRS-ORG et je m'assurerai que vous l'ob
+> S'il vous plaît, fournissez-moi l'adresse de livraison complète à laquelle la carte doit être livr
+1697,1698c1697,1698
+< Si vous avez d'autres questions, veuillez nous contacter par chat ou par e-mail et visitez notre centre d'.
+< De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma.
+---
+> Si vous avez d'autres questions, veuillez nous contacter par chat ou par e-mail et visitez notre centre d'
+> De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma
+1710c1710
+< Si vous souhaitez changer votre adresse e-mail, veuillez nous envoyer un e-mail à partir de votre adresse e-.
+---
+> Si vous souhaitez changer votre adresse e-mail, veuillez nous envoyer un e-mail à partir de votre adresse e-
+1712c1712
+< Après l'envoi de l'email, veuillez nous appeler au numéro de téléphone pour vérifier que le changement a.
+---
+> Après l'envoi de l'email, veuillez nous appeler au numéro de téléphone pour vérifier que le changement a
+1714c1714
+< S'il vous plaît envoyez-nous un e-mail à EMAIL à partir de votre adresse e-mail enregistrée pour.
+---
+> S'il vous plaît envoyez-nous un e-mail à EMAIL à partir de votre adresse e-mail enregistrée pour
+1723c1723
+< S'il vous plaît envoyez-nous un e-mail à EMAIL à partir de votre adresse e-mail enregistrée afin.
+---
+> S'il vous plaît envoyez-nous un e-mail à EMAIL à partir de votre adresse e-mail enregistrée afin
+1731c1731
+< NAME-M_TEXT:I'd love to help you with your verification documents but this is beyond my skills as a.
+---
+> NAME-M_TEXT:I'd love to help you with your verification documents but this is beyond my skills as a
+1733c1733
+< D'après votre conversation précédente avec NAME-M, je peux conclure que vous avez des problèmes avec votre date liée à?
+---
+> D'après votre conversation précédente avec NAME-M, je peux conclure que vous avez des problèmes avec votre date liée à
+1746c1746
+< Connectez-vous à votre profil PRS-ORG en utilisant un navigateur Web et cliquez sur le symbole de.
+---
+> Connectez-vous à votre profil PRS-ORG en utilisant un navigateur Web et cliquez sur le symbole de
+1754,1755c1754,1755
+< Cliquez sur "Historique de facturation" pour voir la date de facturation, la période de facturation.
+< Vous pouvez également exporter une facture avec tous vos détails de paiement pour les factures en utilisant le bouton "Télé.
+---
+> Cliquez sur "Historique de facturation" pour voir la date de facturation, la période de facturation
+> Vous pouvez également exporter une facture avec tous vos détails de paiement pour les factures en utilisant le bouton "Télé
+1760c1760
+< Soyez assurés que notre équipe va examiner cela et vous contacter au sujet de la même chose à votre adresse e-mail.
+---
+> Soyez assurés que notre équipe va examiner cela et vous contacter au sujet de la même chose à votre adresse e-mail
+1770c1770
+< - How are you?.
+---
+> - How are you?
+1775c1775
+< J'ai vérifié les détails et je peux voir que toutes vos préoccupations concernant le Pro facturation ont déjà été transmis.
+---
+> J'ai vérifié les détails et je peux voir que toutes vos préoccupations concernant le Pro facturation ont déjà été transmis
+1784c1784
+< I'm counting on you. While waiting for the problem to be solved I'll send a payment link (at 2.50%.
+---
+> I'm counting on you. While waiting for the problem to be solved I'll send a payment link (at 2.50%
+1798c1798
+< Hi, I can't switch my book reader to the books I bought, but they appear on my PRS-ORG account.
+---
+> Hi, I can't switch my book reader to the books I bought, but they appear on my PRS-ORG account
+1813,1815c1813,1815
+< Pourriez-vous s'il vous plaît être si gentil de synchroniser votre appareil et synchroniser votre biblioth?
+< Vous devriez être en mesure de les voir et de les ouvrir correctement, sinon, veuillez vous déconnecter de votre.
+< Vous devriez être en mesure de les voir et de les ouvrir correctement, sinon, veuillez vous déconnecter de votre.
+---
+> Pourriez-vous s'il vous plaît être si gentil de synchroniser votre appareil et synchroniser votre biblioth
+> Vous devriez être en mesure de les voir et de les ouvrir correctement, sinon, veuillez vous déconnecter de votre
+> Vous devriez être en mesure de les voir et de les ouvrir correctement, sinon, veuillez vous déconnecter de votre
+1867c1867
+< Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau via le chat, l'appel.
+---
+> Si vous avez d'autres questions, n'hésitez pas à nous contacter à nouveau via le chat, l'appel
+1879c1879
+< Dans cette situation, veuillez nous contacter à partir de votre profil principal afin que nous puissions demander à l'équipe dé.
+---
+> Dans cette situation, veuillez nous contacter à partir de votre profil principal afin que nous puissions demander à l'équipe dé
+1884c1884
+< Veuillez nous contacter à partir de votre profil principal ou de l'autre adresse électronique que vous avez en nous.
+---
+> Veuillez nous contacter à partir de votre profil principal ou de l'autre adresse électronique que vous avez en nous
+1894c1894
+< Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support.
+---
+> Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support
+1906c1906
+< Je peux confirmer, le profil est entièrement actif et vérifié, pourriez-vous s'il vous plaît partager la?
+---
+> Je peux confirmer, le profil est entièrement actif et vérifié, pourriez-vous s'il vous plaît partager la
+1912c1912
+< Je vous suggère de redémarrer le lecteur de cartes une fois et de le connecter à l'application PRS-.
+---
+> Je vous suggère de redémarrer le lecteur de cartes une fois et de le connecter à l'application PRS-
+1914c1914
+< Une fois connecté à l'application PRS-ORG sur votre téléphone, je vous suggère d'essayer de faire une.
+---
+> Une fois connecté à l'application PRS-ORG sur votre téléphone, je vous suggère d'essayer de faire une
+1917c1917
+< Veuillez maintenir le bouton d'alimentation enfoncé pendant plus de 10 secondes, jusqu'à ce.
+---
+> Veuillez maintenir le bouton d'alimentation enfoncé pendant plus de 10 secondes, jusqu'à ce
+1919c1919
+< Après cela, s'il vous plaît relâchez vos doigts, vous entendrez un long bip et l'appareil.
+---
+> Après cela, s'il vous plaît relâchez vos doigts, vous entendrez un long bip et l'appareil
+1934c1934
+< Nous ne pouvons pas voir quel courriel a été mis à jour, car les détails ont été supprimés du compte PRS-.
+---
+> Nous ne pouvons pas voir quel courriel a été mis à jour, car les détails ont été supprimés du compte PRS-
+1936c1936
+< Il semble que votre adresse e-mail soit liée à un compte supprimé, c'est pourquoi il vous demande de réiniti.
+---
+> Il semble que votre adresse e-mail soit liée à un compte supprimé, c'est pourquoi il vous demande de réiniti
+1938c1938
+< Comme vous vous souvenez de l'email qui était lié au compte et la seule option est d'y accéder et ensuite.
+---
+> Comme vous vous souvenez de l'email qui était lié au compte et la seule option est d'y accéder et ensuite
+1954c1954
+< S'il vous plaît vérifier avec le fournisseur de services de messagerie, si l'email peut être redirig.
+---
+> S'il vous plaît vérifier avec le fournisseur de services de messagerie, si l'email peut être redirig
+1956c1956
+< Après cela, quand le compte sera rétabli, vous pourrez utiliser n'importe quel e-mail du compte pour le mettre à.
+---
+> Après cela, quand le compte sera rétabli, vous pourrez utiliser n'importe quel e-mail du compte pour le mettre à
+1982c1982
+< Si vous souhaitez changer votre numéro de téléphone, veuillez nous envoyer un courriel à partir de votre adresse électronique.
+---
+> Si vous souhaitez changer votre numéro de téléphone, veuillez nous envoyer un courriel à partir de votre adresse électronique
+1985c1985
+< Après l'envoi de l'email à EMAIL, veuillez nous appeler au NOMBRE TELEF.
+---
+> Après l'envoi de l'email à EMAIL, veuillez nous appeler au NOMBRE TELEF
+2021,2022c2021,2022
+< Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support.
+< De plus, après la fin du chat, vous serez invité à remplir un court sondage pour évaluer mon travail et ma performance.
+---
+> Si vous avez des questions, n'hésitez pas à nous contacter via le chat en direct et visitez notre centre de support
+> De plus, après la fin du chat, vous serez invité à remplir un court sondage pour évaluer mon travail et ma performance
+2037c2037
+< Merci pour votre temps, Si vous le souhaitez, nous pouvons créditer votre compte PRS-ORG avec le même montant que vous.
+---
+> Merci pour votre temps, Si vous le souhaitez, nous pouvons créditer votre compte PRS-ORG avec le même montant que vous
+2050,2052c2050,2052
+< NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time.
+< NAME-M_TEXT:Hi Mickael, this is NAME-M, the virtual assistant of PRS-.
+< It will be easier for me to help you if your questions are short and specific, for example  How do I change my?
+---
+> NAME-M_TEXT:To avoid any confusion, please also make sure that you only ask me one question at a time
+> NAME-M_TEXT:Hi Mickael, this is NAME-M, the virtual assistant of PRS-
+>  It will be easier for me to help you if your questions are short and specific, for example  How do I change my
+2057,2058c2057,2058
+< Note: You can only register one phone number on your account, but the PRS-ORG application (for the Air terminal) can.
+< NAME-M_TEXT:As changing a phone number is beyond my skills as a virtual assistant, I'm going to.
+---
+> Note: You can only register one phone number on your account, but the PRS-ORG application (for the Air terminal) can
+> NAME-M_TEXT:As changing a phone number is beyond my skills as a virtual assistant, I'm going to
+2061c2061
+< Je crois comprendre que vous souhaitez changer de numéro de téléphone.?
+---
+> Je crois comprendre que vous souhaitez changer de numéro de téléphone.
+2078c2078
+< S'il vous plaît envoyez-nous un email indiquant que vous souhaitez changer votre numéro de téléphone professionnel de PHONEN.
+---
+> S'il vous plaît envoyez-nous un email indiquant que vous souhaitez changer votre numéro de téléphone professionnel de PHONEN
+2089c2089
+< De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma.
+---
+> De plus, après le chat sera terminé, vous serez invité à remplir un court sondage pour évaluer mon travail et ma
