@@ -3,10 +3,6 @@
 
   <p align="center">
     Team MULTITAN-GML : system descriptions
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
 
@@ -31,7 +27,7 @@ Team members
 
 ## What's included
 
-
+```
 submission_MULTITAN-GML/
 └── en_fr/
     ├── system-1.txt
