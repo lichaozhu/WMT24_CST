@@ -47,6 +47,6 @@ The first two systems are of *transformer* architecture.
 
 ## Copyright and license
 
-Model Studio Lite : Systran (under commercial license), [https://modelstudio-lite.systran.net](https://modelstudio-lite.systran.net)
-Nllb 3.3B baseline : CC-BY-NC license, [https://github.com/facebookresearch/fairseq/tree/nllb/examples/nllb](https://github.com/facebookresearch/fairseq/tree/nllb/examples/nllb)
-Deep-translator baseline : MIT license, [https://pypi.org/project/deep-translator/](https://pypi.org/project/deep-translator/)
+- Model Studio Lite : Systran (under commercial license), [https://modelstudio-lite.systran.net](https://modelstudio-lite.systran.net)
+- Nllb 3.3B baseline : CC-BY-NC license, [https://github.com/facebookresearch/fairseq/tree/nllb/examples/nllb](https://github.com/facebookresearch/fairseq/tree/nllb/examples/nllb)
+- Deep-translator baseline : MIT license, [https://pypi.org/project/deep-translator/](https://pypi.org/project/deep-translator/)
