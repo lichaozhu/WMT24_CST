@@ -2,7 +2,7 @@
 
 
   <p align="center">
-    Team MULTITAN-GML : system descriptions
+    Team MULTITAN-GML : systems description
   </p>
 </p>
 
