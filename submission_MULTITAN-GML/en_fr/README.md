@@ -41,7 +41,7 @@ submission_MULTITAN-GML/
 
 The first two systems are of *transformer* architecture. 
 
-1. (primary) Model Studio Lite (Systran, under commercial license) "Dialog" Specialized engine: the system is fine-tuned with 2022 Chat Task (train, valid, test) and 2024 Chat Task (valid) data on a "Dialog" in-domain specialized model. We have used 23,672 aligned en-fr segments (186,290 words in English and 192,491 words in French). The translation output is post-edited by ChatGPT4o by prompt;
+1. (primary) Model Studio Lite (Systran, under commercial license) "Dialog" Specialized engine: the system is fine-tuned with 2022 Chat Task (train, valid, test) and 2024 Chat Task (valid) data on a "Dialog" in-domain specialized model. We have used 13,622 aligned en-fr segments (122,905 words in English and 127,335 words in French). The translation output is post-edited by ChatGPT4o by prompt;
 2. (contrastive) NLLB 3.3B baseline (CC-BY-NC license): due to technical problems, we cannot fine-tune Nllb 3.3B baseline model. We have produced translations from scrtach by using Nllb baseline model. The output is also post-edited by ChatGPT4o by prompt;
 3. (contrastive) Deep_translator baseline (MIT license): we have used Deep_translator API to translate the testset and then have the output post-edited by ChatGPT4o. 
 
